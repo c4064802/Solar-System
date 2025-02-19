@@ -1,0 +1,9 @@
+Mercury,0.33,57.9,None
+Venus,4.87,108.2,None
+Earth,5.97,149.6,Moon
+Mars,0.642,227.9,Phobos,Deimos
+Jupiter,1898,778.5,Io,Europa,Ganymede,Callisto
+Saturn,568,1433.5,Titan,Enceladus,Rhea,Dione
+Uranus,86.8,2872.5,Titania,Oberon,Miranda,Ariel
+Neptune,102,4495.1,Triton,Proteus
+Pluto,0.013,5906.4,Charon
